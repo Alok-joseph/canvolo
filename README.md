@@ -8,6 +8,7 @@ This is a Website template Which comes with the UI elements
 
 This visually appealing and graphically designed template can satiate your sights. It designed with all open source attribution free assets. It’s a versatile, fashionable and clean template accurately crafted for an audience that expects nothing lesser than performance and quality like upscale Web blogging adventure.
 
+## Screenshots
 ![screenshot](https://user-images.githubusercontent.com/98444143/154883327-59916458-3298-499b-9882-8d042d19c60e.png)
 
  
