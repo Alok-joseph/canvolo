@@ -20,6 +20,6 @@ Clone the project
   ```
  ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@Alok-joseph](https://github.com/Alok-joseph)
 
 
