@@ -24,5 +24,8 @@ Clone the project
 
 ## 🚀 About Me
  I'm a Coder who designs
+ 
+ ## 🛠 Skills
+Javascript, HTML, CSS
 
 
