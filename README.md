@@ -11,4 +11,15 @@ This visually appealing and graphically designed template can satiate your sight
 ## Screenshots
 ![screenshot](https://user-images.githubusercontent.com/98444143/154883327-59916458-3298-499b-9882-8d042d19c60e.png)
 
- 
+ ## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Alok-joseph/canvolo
+  ```
+ ## Authors
+
+- [@katherinepeterson](https://www.github.com/octokatherine)
+
+
